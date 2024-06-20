@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "+998901234567",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "login": "+998947091973",
+      "password": "12345678"
+    }
+  ],
+  "books": {
+    "ru": [
+      {
+        "title": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "pdf": "/src/assets/pdf/1.pdf",
+        "image": "/src/assets/img/1.webp"
+      },
+      {
+        "title": "Восьмой навык: от эффективности к величию",
+        "author": "Стивен Кови",
+        "pdf": "/src/assets/pdf/2.pdf",
+        "image": "/src/assets/img/1062427.jpg"
+      },
+      {
+        "title": "Ицхак Адизес",
+        "author": "Ицхак Адизес",
+        "pdf": "/src/assets/pdf/3.pdf",
+        "image": "/src/assets/img/1985.jpg"
+      }
+    ],
+    "en": [
+      {
+        "title": "Man's Search for Meanin",
+        "author": "Victor",
+        "pdf": "/src/assets/pdf/4.pdf",
+        "image": "/src/assets/img/1212121.jpg"
+      },
+      {
+        "title": "Book 2",
+        "author": "Ryan Holiday",
+        "pdf": "/src/assets/pdf/5.pdf",
+        "image": "/src/assets/img/98098590q48.png"              
+      }
+    ],
+    "uz": [
+      {
+        "title": "Oddiy Savdo",
+        "author": "----",
+        "pdf": "/src/assets/pdf/6.pdf",
+        "image": "/src/assets/img/11q.webp"
+      },
+      {
+        "title": "Boshqaruv psixologiyasi",
+        "author": "D.I. Mukumova",
+        "pdf": "/src/assets/pdf/7.pdf",
+        "image": "/src/assets/img/4501.jpg"
+      }
+    ]
+  }
+}
