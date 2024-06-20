@@ -4,12 +4,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "json-server --watch db.json"
+    "dev": "node main.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "express": "^4.19.2",
     "json-server": "^1.0.0-beta.1"
   }
 }
